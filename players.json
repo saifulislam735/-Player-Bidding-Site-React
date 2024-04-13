@@ -1,135 +1,202 @@
 [
     {
+        "id": 1,
+        "key": "lionel-messi",
         "name": "Lionel Messi",
-        "picture": "https://www.gettyimages.com/photos/lionel-messi",
+        "picture": "https://media.gettyimages.com/id/1428217516/photo/jamaica-v-argentina.jpg?s=1024x1024&w=gi&k=20&c=_b3xX7aRC-xkEKRNmkmSj7v10iPa8ruAGOH-1JoUiZk=",
         "goal": 767,
         "assist": 350,
-        "fifa_rating": 93
+        "fifa_rating": 93,
+        "market_price": 100
     },
     {
+        "id": 2,
+        "key": "cristiano-ronaldo",
         "name": "Cristiano Ronaldo",
-        "picture": "https://www.gettyimages.com/photos/cristiano-ronaldo",
+        "picture": "https://media.gettyimages.com/id/1358485714/photo/norwich-city-v-manchester-united-premier-league.jpg?s=2048x2048&w=gi&k=20&c=B6IBQFG4UkcEFKuj6a8yc3SjVKGyD6-SwpASv58t8Aw=",
         "goal": 819,
         "assist": 228,
-        "fifa_rating": 92
+        "fifa_rating": 92,
+        "market_price": 80
     },
     {
+        "id": 3,
+        "key": "neymar",
         "name": "Neymar",
-        "picture": "https://www.gettyimages.com/photos/neymar-da-silva",
+        "picture": "https://media.gettyimages.com/id/1466409940/photo/paris-saint-germain-v-fc-bayern-m%C3%BCnchen-round-of-16-leg-one-uefa-champions-league.jpg?s=1024x1024&w=gi&k=20&c=7KyJX4BHbQo4qVUCFAUL7Gd7BUqVnSQpBF0_9F6nJxk=",
         "goal": 305,
         "assist": 239,
-        "fifa_rating": 91
+        "fifa_rating": 91,
+        "market_price": 70
     },
     {
+        "id": 4,
+        "key": "kylian-mbappe",
         "name": "Kylian Mbappé",
-        "picture": "https://www.gettyimages.com/photos/kylian-mbapp%C3%A9",
+        "picture": "https://media.gettyimages.com/id/1383857177/photo/real-madrid-v-paris-saint-germain-round-of-sixteen-leg-two-uefa-champions-league.jpg?s=1024x1024&w=gi&k=20&c=br78IY-VjIW1_KQ4Tp39-suNia7Lc4RifHyk9an2Q9A=",
         "goal": 203,
         "assist": 112,
-        "fifa_rating": 91
+        "fifa_rating": 91,
+        "market_price": 150
     },
     {
+        "id": 5,
+        "key": "robert-lewandowski",
         "name": "Robert Lewandowski",
-        "picture": "https://www.gettyimages.com/photos/robert-lewandowski",
+        "picture": "https://media.gettyimages.com/id/1427590551/photo/uefa-nations-league-league-path-group-4.jpg?s=1024x1024&w=gi&k=20&c=P0hs66tgjr37QgePXU9iM1U3mehsHHQSSj4zV9gFMO0=",
         "goal": 531,
         "assist": 108,
-        "fifa_rating": 91
+        "fifa_rating": 91,
+        "market_price": 60
     },
     {
+        "id": 6,
+        "key": "kevin-de-bruyne",
         "name": "Kevin De Bruyne",
-        "picture": "https://www.gettyimages.com/photos/kevin-de-bruyne",
+        "picture": "https://media.gettyimages.com/id/1381405482/photo/manchester-city-v-manchester-united-premier-league.jpg?s=1024x1024&w=gi&k=20&c=h3vyPZeZnggTj4cEQzxGTB6-18KSnwGnOfMqKBQp3bU=",
         "goal": 95,
         "assist": 211,
-        "fifa_rating": 91
+        "fifa_rating": 91,
+        "market_price": 120
     },
     {
+        "id": 7,
+        "key": "virgil-van-dijk",
         "name": "Virgil van Dijk",
-        "picture": "https://www.gettyimages.com/photos/virgil-van-dijk",
+        "picture": "https://media.gettyimages.com/id/1437566407/photo/liverpool-fc-v-leeds-united-premier-league.jpg?s=1024x1024&w=gi&k=20&c=YMNqvr3PlGlkrG3bV3BdM_8AodiLJzU2sUGyy_DolC8=",
         "goal": 39,
         "assist": 54,
-        "fifa_rating": 90
+        "fifa_rating": 90,
+        "market_price": 50
     },
     {
+        "id": 8,
+        "key": "mohamed-salah",
         "name": "Mohamed Salah",
-        "picture": "https://www.gettyimages.com/photos/mohamed-salah",
+        "picture": "https://media.gettyimages.com/id/1471469891/photo/liverpool-fc-v-manchester-united-premier-league.jpg?s=1024x1024&w=gi&k=20&c=LUhcQrKkD-_wHHTuYFlUVKZ6XOA8bbJxh2UGk1UNdqU=",
         "goal": 175,
         "assist": 90,
-        "fifa_rating": 90
+        "fifa_rating": 90,
+        "market_price": 90
     },
     {
+        "id": 9,
+        "key": "erling-haaland",
         "name": "Erling Haaland",
-        "picture": "https://www.gettyimages.com/photos/erling-haaland",
+        "picture": "https://media.gettyimages.com/id/1400692702/photo/uefa-nations-league-league-path-group-4.jpg?s=1024x1024&w=gi&k=20&c=p0jTPagQ1_a9EED-4I2EVQ8qgCtVzj400bSSuWEb5Gs=",
         "goal": 181,
         "assist": 40,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 140
     },
     {
+        "id": 10,
+        "key": "trent-alexander-arnold",
         "name": "Trent Alexander-Arnold",
-        "picture": "https://www.gettyimages.com/photos/trent-alexander-arnold",
+        "picture": "https://media.gettyimages.com/id/1900510411/photo/liverpool-fc-v-newcastle-united-premier-league.jpg?s=1024x1024&w=gi&k=20&c=ZdO9t2AX6KmOBzax1OyO7LK8FdNlG6YW_fE11ynSXbA=",
         "goal": 15,
         "assist": 62,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 65
     },
     {
+        "id": 11,
+        "key": "jorginho",
         "name": "Jorginho",
         "picture": "https://www.gettyimages.com/photos/jorginho",
         "goal": 52,
         "assist": 51,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 45
     },
     {
+        "id": 12,
+        "key": "karim-benzema",
         "name": "Karim Benzema",
         "picture": "https://www.gettyimages.com/photos/karim-benzema",
         "goal": 442,
         "assist": 141,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 55
     },
     {
+        "id": 13,
+        "key": "thibaut-courtois",
         "name": "Thibaut Courtois",
         "picture": "https://www.gettyimages.com/photos/thibaut-courtois",
         "goal": 0,
         "assist": 0,
-        "fifa_rating": 90
+        "fifa_rating": 90,
+        "market_price": 40
     },
     {
+        "id": 14,
+        "key": "alisson-becker",
         "name": "Alisson Becker",
         "picture": "https://www.gettyimages.com/photos/alisson-becker",
         "goal": 0,
         "assist": 0,
-        "fifa_rating": 89
+        "fifa_rating": 89,
+        "market_price": 42
     },
     {
+        "id": 15,
+        "key": "son-heung-min",
         "name": "Son Heung-Min",
         "picture": "https://www.gettyimages.com/photos/heung-min-son",
         "goal": 130,
         "assist": 78,
-        "fifa_rating": 89
+        "fifa_rating": 89,
+        "market_price": 60
     },
     {
+        "id": 16,
+        "key": "sadio-mane",
         "name": "Sadio Mané",
         "picture": "https://www.gettyimages.com/photos/sadio-man%C3%A9",
         "goal": 195,
         "assist": 95,
-        "fifa_rating": 89
+        "fifa_rating": 89,
+        "market_price": 55
     },
     {
+        "id": 17,
+        "key": "casemiro",
         "name": "Casemiro",
         "picture": "https://www.gettyimages.com/photos/casemiro",
         "goal": 31,
         "assist": 42,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 45
     },
     {
+        "id": 18,
+        "key": "luis-suarez",
         "name": "Luis Suárez",
         "picture": "[invalid URL removed]",
         "goal": 438,
         "assist": 222,
-        "fifa_rating": 88
+        "fifa_rating": 88,
+        "market_price": 35
     },
     {
+        "id": 19,
+        "key": "gianluigi-donnarumma",
         "name": "Gianluigi Donnarumma",
         "picture": "https://www.gettyimages.com/photos/gianluigi-donnarumma",
         "goal": 0,
         "assist": 0,
-        "fifa_rating": 89
+        "fifa_rating": 89,
+        "market_price": 60
+    },
+    {
+        "id": 20,
+        "key": "lewandowski",
+        "name": "Robert Lewandowski",
+        "picture": "https://www.gettyimages.com/photos/robert-lewandowski",
+        "goal": 531,
+        "assist": 108,
+        "fifa_rating": 91,
+        "market_price": 65
     }
 ]
