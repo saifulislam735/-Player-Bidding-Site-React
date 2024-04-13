@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Lionel Messi",
+        "picture": "https://www.gettyimages.com/photos/lionel-messi",
+        "goal": 767,
+        "assist": 350,
+        "fifa_rating": 93
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "picture": "https://www.gettyimages.com/photos/cristiano-ronaldo",
+        "goal": 819,
+        "assist": 228,
+        "fifa_rating": 92
+    },
+    {
+        "name": "Neymar",
+        "picture": "https://www.gettyimages.com/photos/neymar-da-silva",
+        "goal": 305,
+        "assist": 239,
+        "fifa_rating": 91
+    },
+    {
+        "name": "Kylian Mbappé",
+        "picture": "https://www.gettyimages.com/photos/kylian-mbapp%C3%A9",
+        "goal": 203,
+        "assist": 112,
+        "fifa_rating": 91
+    },
+    {
+        "name": "Robert Lewandowski",
+        "picture": "https://www.gettyimages.com/photos/robert-lewandowski",
+        "goal": 531,
+        "assist": 108,
+        "fifa_rating": 91
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "picture": "https://www.gettyimages.com/photos/kevin-de-bruyne",
+        "goal": 95,
+        "assist": 211,
+        "fifa_rating": 91
+    },
+    {
+        "name": "Virgil van Dijk",
+        "picture": "https://www.gettyimages.com/photos/virgil-van-dijk",
+        "goal": 39,
+        "assist": 54,
+        "fifa_rating": 90
+    },
+    {
+        "name": "Mohamed Salah",
+        "picture": "https://www.gettyimages.com/photos/mohamed-salah",
+        "goal": 175,
+        "assist": 90,
+        "fifa_rating": 90
+    },
+    {
+        "name": "Erling Haaland",
+        "picture": "https://www.gettyimages.com/photos/erling-haaland",
+        "goal": 181,
+        "assist": 40,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Trent Alexander-Arnold",
+        "picture": "https://www.gettyimages.com/photos/trent-alexander-arnold",
+        "goal": 15,
+        "assist": 62,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Jorginho",
+        "picture": "https://www.gettyimages.com/photos/jorginho",
+        "goal": 52,
+        "assist": 51,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Karim Benzema",
+        "picture": "https://www.gettyimages.com/photos/karim-benzema",
+        "goal": 442,
+        "assist": 141,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Thibaut Courtois",
+        "picture": "https://www.gettyimages.com/photos/thibaut-courtois",
+        "goal": 0,
+        "assist": 0,
+        "fifa_rating": 90
+    },
+    {
+        "name": "Alisson Becker",
+        "picture": "https://www.gettyimages.com/photos/alisson-becker",
+        "goal": 0,
+        "assist": 0,
+        "fifa_rating": 89
+    },
+    {
+        "name": "Son Heung-Min",
+        "picture": "https://www.gettyimages.com/photos/heung-min-son",
+        "goal": 130,
+        "assist": 78,
+        "fifa_rating": 89
+    },
+    {
+        "name": "Sadio Mané",
+        "picture": "https://www.gettyimages.com/photos/sadio-man%C3%A9",
+        "goal": 195,
+        "assist": 95,
+        "fifa_rating": 89
+    },
+    {
+        "name": "Casemiro",
+        "picture": "https://www.gettyimages.com/photos/casemiro",
+        "goal": 31,
+        "assist": 42,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Luis Suárez",
+        "picture": "[invalid URL removed]",
+        "goal": 438,
+        "assist": 222,
+        "fifa_rating": 88
+    },
+    {
+        "name": "Gianluigi Donnarumma",
+        "picture": "https://www.gettyimages.com/photos/gianluigi-donnarumma",
+        "goal": 0,
+        "assist": 0,
+        "fifa_rating": 89
+    }
+]
