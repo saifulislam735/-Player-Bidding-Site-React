@@ -1,0 +1,54 @@
+.player {
+    border-radius: 20px;
+    background: #FBFCFD;
+    /*stying of card component*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+    color: #262626;
+    font-family: IRANSansXVF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    padding: 20px 0px 20px;
+
+}
+
+.playerImage {
+    width: 300px;
+    height: 249px;
+    border-radius: 8px;
+
+}
+
+.playerInfo p,
+h4 {
+    margin: 0px;
+}
+
+.playerInfo {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.addToTeamBtn {
+    width: 120px;
+    height: 40px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    background:  #40BFFF;
+    
+
+}

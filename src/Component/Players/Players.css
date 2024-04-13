@@ -1,0 +1,11 @@
+.cartNPlayer {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.displayPlayer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 30px 80px 0px;
+    gap: 20px;
+}
