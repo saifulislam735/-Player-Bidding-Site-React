@@ -9,3 +9,16 @@
 .CartHead {
     text-align: center;
 }
+
+.cartDoneBtn {
+    width: auto;
+    height: 48px;
+    flex-shrink: 0;
+    background-color: #B2A59B;
+    color: black;
+}
+
+.cartDoneBtn:hover{
+    background-color: #1ba256;
+}
+
