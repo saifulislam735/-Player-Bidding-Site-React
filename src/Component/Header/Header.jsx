@@ -10,10 +10,10 @@ const Header = () => {
             </div>
             <div>
                 <ul className='menu'>
-                    <LinkActivity to={'/Player-Bidding-Site-React/home'}>Home</LinkActivity>
-                    <LinkActivity to={'/Player-Bidding-Site-React/list'}>List</LinkActivity>
-                    <LinkActivity to={'/Player-Bidding-Site-React/about'}>About</LinkActivity>
-                    <LinkActivity to={'/Player-Bidding-Site-React/contact'}>Contact</LinkActivity>
+                    <LinkActivity to={'/-Player-Bidding-Site-React/home'}>Home</LinkActivity>
+                    <LinkActivity to={'/-Player-Bidding-Site-React/list'}>List</LinkActivity>
+                    <LinkActivity to={'/-Player-Bidding-Site-React/about'}>About</LinkActivity>
+                    <LinkActivity to={'/-Player-Bidding-Site-React/contact'}>Contact</LinkActivity>
                 </ul>
             </div>
         </nav>

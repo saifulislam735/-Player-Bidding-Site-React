@@ -13,11 +13,11 @@ import Error from './Component/404/Error.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/Player-Bidding-Site-React/",
+    path: "/-Player-Bidding-Site-React/",
     element: <Root></Root>,
     children: [
       {
-        path: "/Player-Bidding-Site-React/home",
+        path: "/-Player-Bidding-Site-React/home",
         element: <Players></Players>
       },
       {
