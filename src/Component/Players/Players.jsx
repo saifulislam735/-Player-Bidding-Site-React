@@ -3,6 +3,7 @@ import { useState } from "react";
 import Player from "../Player/Player";
 import './Players.css'
 import Cart from "../Cart/Cart";
+import toast, { Toaster } from 'react-hot-toast';
 const Players = () => {
 
     const [players, setPlayers] = useState([]);
@@ -24,6 +25,8 @@ const Players = () => {
             if (!value) {
                 let newPlayerList = [...selectedPlayer, player]
                 setSelectedPlayer(newPlayerList)
+                const message = player.name + " added in the team";
+                toast.success(message)
             }
             else {
                 //alert for already existed player in team
@@ -34,13 +37,13 @@ const Players = () => {
                 else {
                     //alert for already existed player in team
                     const message = player.name + " is already in team";
-                    alert(message)
+                    toast.error(message);
                 }
             }
         }
         else {
             const message = player.name + " cannot be added" + " already 11 player selected";
-            alert(message)
+            toast.error(message);
         }
     }
 
@@ -61,6 +64,7 @@ const Players = () => {
             <div className="">
                 <Cart deletePlayer={deletePlayer} selectedPlayer={selectedPlayer} ></Cart>
             </div>
+            <Toaster />
         </div>
     );
 };

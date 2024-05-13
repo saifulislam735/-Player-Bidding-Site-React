@@ -1,7 +1,6 @@
 // import React from 'react';
 import './CartPlayerList.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faX } from '@fortawesome/free-solid-svg-icons';//faCoffee  can change
+import { XMarkIcon } from '@heroicons/react/24/solid'
 
 const CartPlayerList = (props) => {
 
@@ -11,8 +10,8 @@ const CartPlayerList = (props) => {
         <div className="cartPlayerList">
             <span>{name}</span>
             <span> {market_price}M</span>
-            <div onClick={() => deletePlayer(props.p.id)}>
-                <FontAwesomeIcon icon={faX} />
+            <div style={{width:"25px",display:'flex',justifyItems:'center'}} onClick={() => deletePlayer(props.p.id)}>
+                <XMarkIcon className="size-2 text-blue-500" />
             </div>
         </div>
     );

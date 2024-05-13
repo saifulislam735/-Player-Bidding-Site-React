@@ -16,7 +16,7 @@
     font-weight: 400;
     line-height: normal;
 
-    padding: 20px 0px 20px;
+    padding: 20px 20px 20px;
 
 }
 
@@ -33,22 +33,20 @@ h4 {
 }
 
 .playerInfo {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    gap: 10px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
 }
 
 .addToTeamBtn {
+    margin-top: 60px;
     width: 120px;
     height: 40px;
     color: #FFF;
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 400;
     line-height: normal;
-    background:  #40BFFF;
-    
-
+    background: #246687;
 }
