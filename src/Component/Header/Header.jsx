@@ -1,5 +1,7 @@
 import './Header.css'
 import logo from '../../assets/logo.jpg'
+// import { Link } from 'react-router-dom';
+import LinkActivity from '../LinkActivity/LinkActivity';
 const Header = () => {
     return (
         <nav className="headerStyle">
@@ -8,10 +10,10 @@ const Header = () => {
             </div>
             <div>
                 <ul className='menu'>
-                    <li>Home</li>
-                    <li>List</li>
-                    <li>About Us</li>
-                    <li>Contact</li>
+                    <LinkActivity to={'/Player-Bidding-Site-React/home'}>Home</LinkActivity>
+                    <LinkActivity to={'/Player-Bidding-Site-React/list'}>List</LinkActivity>
+                    <LinkActivity to={'/Player-Bidding-Site-React/about'}>About</LinkActivity>
+                    <LinkActivity to={'/Player-Bidding-Site-React/contact'}>Contact</LinkActivity>
                 </ul>
             </div>
         </nav>

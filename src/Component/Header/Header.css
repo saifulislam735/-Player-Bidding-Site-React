@@ -12,12 +12,24 @@
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+
+    position: sticky;
+    top: 0px;
+    z-index: 100;
 }
 
 .menu {
     display: flex;
     gap: 50px;
     list-style-type: none;
+}
+a{
+    color: #dbc9c9;
+
+}
+a:hover{
+    color: #f7efef;
+
 }
 
 .logo {
