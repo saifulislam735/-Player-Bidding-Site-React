@@ -12,18 +12,10 @@ const Players = () => {
             .then(data => setPlayers(data))
     }, [])
 
-    const [selectedPlayer, setSelectedPlayer] = useState([]);
-    let filteredPlayer = {};
-    const deletePlayer = (id) => {
-        console.log('cliked id', id)
-        filteredPlayer = selectedPlayer.filter((item) => item.id !== id);
-        setSelectedPlayer[filteredPlayer];
-    }
-    console.log(selectedPlayer);
 
-    useEffect(() => {
-        addPlayerToCart;
-    }, [selectedPlayer])
+
+
+    const [selectedPlayer, setSelectedPlayer] = useState([]);
     const addPlayerToCart = (player) => {
         //find the wheather the new selected player is exist in state or not
         let value = selectedPlayer.find(p => p.id == player.id)
@@ -53,7 +45,11 @@ const Players = () => {
     }
 
 
-
+    const deletePlayer = (id) => {
+        console.log('cliked id', id)
+        const filteredPlayer = selectedPlayer.filter(pl => pl.id !== id);
+        setSelectedPlayer(filteredPlayer);
+    }
 
     return (
         <div className="cartNPlayer">
